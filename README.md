@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    <img src="assets/logo.png" width=150 />
+</div>
+
 # Sentio Custom Integration Template
 
 This is an example template for creating custom integrations with Sentio. It demonstrates how to structure your integration code and provides a TypeScript-based foundation.
